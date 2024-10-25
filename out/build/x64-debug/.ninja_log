@@ -1,0 +1,8 @@
+# ninja log v5
+25	1588	7514949934212490	Robot/CMakeFiles/Robot.dir/Robot.cpp.obj	1dfeecff74ef2cbb
+2034	2474	7515467390990341	Robot/Robot.exe	703a6c6316155291
+34	2033	7515467387572033	Robot/CMakeFiles/Robot.dir/Program.cpp.obj	a07796df6be97042
+21	64	0	clean	3f9b83505c84670f
+15	760	7515395504227002	Robot/CMakeFiles/Robot.dir/Table.cpp.obj	8942da438bb79669
+55	229	7513984473140234	Robot/CMakeFiles/Robot.dir/TableInterface.cpp.obj	6df5acad57e3cf88
+127	1805	7514949648688832	Robot/CMakeFiles/Robot.dir/CommandHandler.cpp.obj	5e239e931423603a
